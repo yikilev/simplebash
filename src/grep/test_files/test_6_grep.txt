@@ -1,0 +1,3 @@
+Something like the good old text-based adventure games with elements of a puzzle. 
+Each Task is a challenge, usually some kind of a hurdle you need to overcome. 
+Only those who tackle them all will be able to move further.
